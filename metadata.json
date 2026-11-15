@@ -1,0 +1,6 @@
+{
+  "name": "St Carels",
+  "description": "St Carels Academy School Management System for managing students, teachers, grades, marks, assignments, and academic records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
